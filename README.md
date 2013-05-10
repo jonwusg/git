@@ -1,4 +1,3 @@
-git
-===
-
-testing files for Git
+My Git Repository
+=================
+Jon's testing files for Git
